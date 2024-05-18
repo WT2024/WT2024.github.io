@@ -1,0 +1,35 @@
+﻿body
+{
+    margin : 0;
+    background-color : lightskyblue;
+}
+
+header 
+{
+    padding-top : 10px;
+    padding-bottom : 10px;
+    background-color : dodgerblue;
+}
+
+h2 
+{
+    margin : 0;
+    text-align : center;
+}
+
+p 
+{
+    text-align : center;
+}
+
+a
+{
+    color : blue;
+    text-decoration : none;
+}
+
+a:hover
+{
+    cursor : pointer;
+    color : mediumblue;
+}
