@@ -1,11 +1,6 @@
-﻿body
+﻿header
 {
-    margin : 0;
-}
-
-main
-{
-    margin : 10px;
+    padding : 0;
 }
 
 .menu 
@@ -29,7 +24,7 @@ main
     text-decoration : none;
 }
 
-.menu li a :hover
+.menu li a:hover
 {
     background-color : royalblue;
     color : white;
